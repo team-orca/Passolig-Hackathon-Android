@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="text_hint">#303F9F</color>
+    <color name="ripple_color">#DEF7FF</color>
+    <color name="button_color">#dddddd</color>
+    <color name="wrong">#ff0000</color>
+    <color name="correct">#38ba6d</color>
+    <color name="border">#f1f5f7</color>
+</resources>
